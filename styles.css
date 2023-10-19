@@ -1,0 +1,32 @@
+body {
+    background-color: bisque;
+}
+
+div {
+    background-color: beige;
+    text-align: center;
+    padding-right: 45px;
+    height: 80px;
+    width: 600px;
+    margin-top: -10px;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+    background-color: antiquewhite;
+    height: 25px;
+    width: 150px;
+    margin: 5px;
+    border: 2px solid darkgray;
+    margin-top: 15px;
+}
+
+h1{
+    color: brown;
+    height: 80px;
+    width: 645px;
+    text-align: center;
+    background-color: beige;
+    padding-top: 25px;
+}
